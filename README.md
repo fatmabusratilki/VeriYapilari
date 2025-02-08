@@ -1,9 +1,9 @@
 # Veri Yapıları
- Veri Yapıları
- Notlar sürekli güncellenecektir... 
- 
-Veri yapıları ve veri modellerini anlamak
-Algoritmaları incelemek, mevcut çözümleri anlamak
-Bilgisayar yazılım dünyasına ait bazı kavramlar, terimler ve sözcükleri anlamak
-Bağlantılı liste, ağaç, graf gibi çeşitli veri modellerini anlamak
-Programların bellek gereksinimleri ve çalışma hızlarını analiz edebilmek
+##Otobüs Yönetim Sistemi
+
+Bu proje, 22-23 Projeler/2. Grup tarafından geliştirilmiştir. Proje kapsamında, veri yapılarını kullanarak bir otobüs yönetim sistemi tasarladık.
+
+##Proje Hakkında
+
+Bu otobüs yönetim sistemi, otobüs filosunun etkin bir şekilde yönetilmesini sağlamak amacıyla geliştirilmiştir.
+
